@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 tweepy = "*"
+python-dotenv = "*"
+ipykernel = "*"
 
 [dev-packages]
 
