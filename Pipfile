@@ -7,6 +7,10 @@ name = "pypi"
 tweepy = "*"
 python-dotenv = "*"
 ipykernel = "*"
+pandas = "*"
+nltk = "*"
+textblob = "*"
+seaborn = "*"
 
 [dev-packages]
 
